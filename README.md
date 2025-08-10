@@ -10,7 +10,8 @@ I am full stack java developer.
 [Mega Digital Marketing Course A-Z: 32 Courses in 1 + Updates](https://www.udemy.com/certificate/UC-68fa75e7-465e-4290-be32-f9cf237345c5/)<br/>
 [Flutter & Dart - The Complete Guide \[2025 Edition\]](https://www.udemy.com/certificate/UC-c74013e6-c294-4eb3-992c-5a80940c27d9/)<br/>
 [CSS - The Complete Guide 2025 (incl. Flexbox, Grid & Sass)](https://www.udemy.com/certificate/UC-5f5b9902-8edf-4213-a357-7c16121394a2/) <br />
-[NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno)](https://www.udemy.com/certificate/UC-cac9e4a5-9e2a-43e4-8b2b-b0ce2d2218bb)
+[NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno)](https://www.udemy.com/certificate/UC-cac9e4a5-9e2a-43e4-8b2b-b0ce2d2218bb)<br />
+[Python - The Practical Guide](https://www.udemy.com/certificate/UC-e9a52ade-f263-4a50-8165-fdef4ff414f0/)
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 # 📊 GitHub Stats:
